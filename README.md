@@ -21,4 +21,9 @@ Complejidad Temporal Algoritmo:
 - No encontre otra opción de Mejora, sin modificar los datos.
 
 
-Consideraciones: No se utilizaron objetos Custom, enfoque solo fue en Algoritmo y se mantuvo intacto el tipo de dato obtenido de csv.
+Consideraciones: 
+- No se utilizaron objetos Custom, enfoque solo fue en Algoritmo y se mantuvo intacto el tipo de dato obtenido de csv.
+- Version java 1.8.
+- No se utilizaron librerias adicionales.
+- No se utilizaron herramientas de construcción (gradle,maven,etc)
+- Importar como	Proyectos desde Carpeta src
